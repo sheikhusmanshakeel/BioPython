@@ -1,0 +1,827 @@
+MUSCLE (3.8) multiple sequence alignment
+
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       MSLALNDLLICCRQLEHDRATERRKEVDKFKRLIQDPETVQHLDRHSDSKQGKYLNWDAV
+ATM_HUMAN       MSLVLNDLLICCRQLEHDRATERKKEVEKFKRLIRDPETIKHLDRHSDSKQGKYLNWDAV
+ATM_PIG         MSLALNDLLICCRQLEHDRATERRKAVENFRHLIQDPETVQHLDQHSDSKQGKYLNWDAA
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       FRFLQKYIQKEMESLRTAKSNVSATTQSSRQKKMQEISSLVRYFIKCANKRAPRLKCQDL
+ATM_HUMAN       FRFLQKYIQKETECLRIAKPNVSASTQASRQKKMQEISSLVKYFIKCANRRAPRLKCQEL
+ATM_PIG         FRFLQKYIQKETECLRTAKQNVSASTQATRQKKMQEISSLVKYFIKCANKRAPRLKCQEL
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       LNYVMDTVKDSSNGLTYGADCSNILLKDILSVRKYWCEVSQQQWLELFSLYFRLYLKPSQ
+ATM_HUMAN       LNYIMDTVKDSSNGAIYGADCSNILLKDILSVRKYWCEISQQQWLELFSVYFRLYLKPSQ
+ATM_PIG         LNYIMDTVRDSSNNPIYGADYSNILLKDILSVRKYWCEISQQQWRELFLIYFTLYLKPSQ
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       DINRVLVARIIHAVTRGCCSQTDGLPSKFLDLFSKAIQYARQEKSSPGLSHILAALNIFL
+ATM_HUMAN       DVHRVLVARIIHAVTKGCCSQTDGLNSKFLDFFSKAIQCARQEKSSSGLNHILAALTIFL
+ATM_PIG         DINRLLVARIIQAVTKGCCSQTDGLNSEFLDFFTKAIQNARQEKSSPGLNHILAAYVIFL
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       KSLAVNFRKRVCEAGDEILPTLLYIWTQHRLNDSLKEVIIELIQLQIYIHHPQGARAPEE
+ATM_HUMAN       KTLAVNFRIRVCELGDEILPTLLYIWTQHRLNDSLKEVIIELFQLQIYIHHPKGAKTQEK
+ATM_PIG         KTLAANFRIRVCELGDKILPTLLYIWTQHRLNDSLKEVIVELFQLQVYMHHPKGAKTQEK
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       GAYESMKWKSILYNLYDLLVNEISHIGSRGKYSSGSRNIAVKENLIDLMADICYQLFDAD
+ATM_HUMAN       GAYESTKWRSILYNLYDLLVNEISHIGSRGKYSSGFRNIAVKENLIELMADICHQVFNED
+ATM_PIG         GAYESAKWKSILYNLYDLLVNEISRIGSRGKYSSGSRNIAVKENLIELMADICHQVFNED
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ----------------------------------------------DDYQNHFGDIAKLL
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       TRSVEISQSY-VTQRESTDYSVPCKRRKIDVGWEVIKDYLQKSQSDFDLVPWLQITTRLI
+ATM_HUMAN       TRSLEISQSYTTTQRESSDYSVPCKRKKIELGWEVIKDHLQKSQNDFDLVPWLQIATQLI
+ATM_PIG         TRSLEISQSYTTTQREFSDYNAPCKKRKIELGWGVIKDHLQKSQNDFDVVPWLQIATQLI
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       SNFQ--------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       SKYPSSLPNCELSPLILILYQLLPQQRRGERIPYVLRCLKEVALCQGKKSNLESSQKSDL
+ATM_HUMAN       SKYPASLPNCELSPLLMILSQLLPQQRHGERTPYVLRCLTEVALCQDKRSNLESSQKSDL
+ATM_PIG         SKYPASLPNCELSPLLMILYQLLPQQRRGERTPYVLRCLMEVALCQGKKPNLESSHKSDL
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       LKLWIKIWSITFRGISSGQTQTENFGLLEAIIQGSLVELDREFWKLFTGSACKPSSPSVC
+ATM_HUMAN       LKLWNKIWCITFRGISSEQIQAENFGLLGAIIQGSLVEVDREFWKLFTGSACRPSCPAVC
+ATM_PIG         LKIWIKIWSITFRGISSEQIQAENFGLLGAIIQGSLVEVDREFWKLFTGSACKPSCPTVC
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       CLTLALSICVVPDAIKMGTEQSVCEANRSFSVKESIMRWLLFYQLEDDLEDSTELPPILQ
+ATM_HUMAN       CLTLALTTSIVPGTVKMGIEQNMCEVNRSFSLKESIMKWLLFYQLEGDLENSTEVPPILH
+ATM_PIG         CLTLALKTCVVPETVETGME-NICDGNRKFSLKESIMKWLLFCQLEDDFEDRIELPPILH
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       SNFPHLVVEKILVSLTMKNSKAAMKFFQSVPECEQHCEDKEEPSFSEVEELFLQTTFDKM
+ATM_HUMAN       SNFPHLVLEKILVSLTMKNCKAAMNFFQSVPECEHHQKDKEELSFSEVEELFLQTTFDKM
+ATM_PIG         SNFPHLALEKILVSLIMKNCKAAMNFFQSVPECEQHQKDTEEPSLLEVEELFLQTTFDKM
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       DFLTTVKEYAVEKFQSSVGFSVQQNLKESLDHYLLGLSEQLLSNYSSEITSSETLVRCSS
+ATM_HUMAN       DFLTIVRECGIEKHQSSIGFSVHQNLKESLDRCLLGLSEQLLNNYSSEITNSETLVRCSR
+ATM_PIG         DFLTVVQECTIEKHQSSVGFSFHQNLKESLDRYLLGLSEQLLNNYLPETSDSETLVRCSS
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       LLVGVLGCYCYMGIITEDEAHKSELFQKAKSLMQCAGESISLFKNKTNEESRIGSLRNVM
+ATM_HUMAN       LLVGVLGCYCYMGVIAEEEAYKSELFQKAKSLMQCAGESITLFKNKTNEEFRIGSLRNMM
+ATM_PIG         LLVGVLGCYCYVGVIAEEEAYTSELFQKAKSLMQCAGESITLFKSKTNEESRIISLRNMM
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       HLCTSCLCIHTKHTPNKIASGFFLRLLTSKLMNDIADICKSLASCTKKPLDHG-VHPGED
+ATM_HUMAN       QLCTRCLSNCTKKSPNKIASGFFLRLLTSKLMNDIADICKSLASFIKKPFDRGEVESMED
+ATM_PIG         HLCTNCLYKCAKRSPNKIASGFFLRLLTSKLMHDIADVCRSLAFIIKKPFDCREVESMED
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       DEDGGGCDSLMEAEGPSSTGLSTAYPASSVSDANDYGENQNAVGAMSPLAADYLSKQDHL
+ATM_HUMAN       DTNG----NLMEVEDQSSMNLFNDYPDSSVSDANEPGESQSTIGAINPLAEEYLSKQDLL
+ATM_PIG         DTDK----NLMEMNDQSSMSLFNDNPASSVIDANESGESQITMGAMNPLAEEHLSKQDLL
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       LLDMLRFLGRSVTASQSHTVSFRGADIRRKLLLLLDSSILDLMKPLHLHMYLVLLKDLPG
+ATM_HUMAN       FLDMLKFLCLCVTTAQTNTVSFRAADIRRKLLMLIDSSTLEPTKSLHLHMYLMLLKELPG
+ATM_PIG         VLDMLRFLCMCITIAQSNTMSFRAADIRRKLLMLIDSDRLDPTKSLHLHMYLVLLKELPG
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ------------------------------------------------------------
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       NEHSLPMEDVVELLQPLSLVCSLHRRDQDVCKTILSNVLHIVTNLGQGSVDMESTRIAQG
+ATM_HUMAN       EEYPLPMEDVLELLKPLSNVCSLYRRDQDVCKTILNHVLHVVKNLGQSNMDSENTRDAQG
+ATM_PIG         EEYPLPMEDVVELLKPLSSVCSLYRRDQDVCKTILNHVLHIVPNLCRENVDAESTRDAQG
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       ----------------------RVKLINCICDLVLLNPQTGQTMI----------ERLLL
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       HFLTVMGAFWHLTKEKKCVFSVRMALVKCLQTLLEADPYSEWAILNVKGQDFPVNEAFSQ
+ATM_HUMAN       QFLTVIGAFWHLTKERKYIFSVRMALVNCLKTLLEADPYSKWAILNVMGKDFPVNEVFTQ
+ATM_PIG         QFLTVIGAFWHLTKEGKCTFSVRLALVKCLKTLLEADPYSRWAILNVMEKDFPVNEVFPQ
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       MLSDSDYRVRFVLARQIGILFQTWDGHEALFQDICSSFGIKLVTSSKEKLVTAKDVLAVG
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       FLADDHHQVRMLAAGSVNRLFQDMRQGDFSRSLKALPLKFQQTSFNNAYTTAEAGIRGL-
+ATM_HUMAN       FLADNHHQVRMLAAESINRLFQDTK-GDSSRLLKALPLKLQQTAFENAYLKAQEGMREM-
+ATM_PIG         FLADNHHQVCMLAAGLINRLFQHMKQGDSSTIMRALPLKLQQTAFENAYLKAQERIRQVK
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ---------------------------LCCEAKEVREKTMSIVMYILESKKGHINLNSFL
+ATM_ARATH       PQPRQKMET----------VIITLMHLAYHSENIELQAVFMMCAVSAKDPCQRELIIAAL
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       LCDSQNPDLLDEIYNRKSVLLMMIAVVLHCSPVCEKQALFALCKSVKENRLEPHLVKKVL
+ATM_HUMAN       SHSAENPETLDEIYNRKSVLLTLIAVVLSCSPICEKQALFALCKSVKENGLEPHLVKKVL
+ATM_PIG         SQGGENRELLDEICNRKAVLLTMIAVVLCCSPVCEKQALFALCKSVKENGLEPHLIKKVL
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       EETTD-------------------------------------------------------
+ATM_ARATH       DNLSAQLHYPSRFKYLEELLGPILFHWIASGVSLAGLIETSQLFIPNAEPKYFIHFCSHW
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       EKVSESFGCRSLEDFMISHLDYLVLEWLNLQDTEYSLSSFPFMLLNYTSIEDFYRSCYKI
+ATM_HUMAN       EKVSETFGYRRLEDFMASHLDYLVLEWLNLQDTEYNLSSFPFILLNYTNIEDFYRSCYKV
+ATM_PIG         EKVSETFGYRHLEDFMASHLDYLVLEWLHLQDAEYSLSSFPFILLNYTNIEDFYRSCYKV
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       LLPALLLHEDHTNLDWVAKMAGQPVVVLVKENFVPIFSICMGLHCSKTS-----ECDKGA
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       LIPHLVIRSHFDEVKSIANQIQKCWKSLLVDCFPKILVHILPYFAYEGTRDSYVSQKRET
+ATM_HUMAN       LIPHLVIRSHFDEVKSIANQIQEDWKSLLTDCFPKILVNILPYFAYEGTRDSGMAQQRET
+ATM_PIG         LIPHLVMRCHFDEVKSIANQIQGDWKSLLTDCFPKILVNILPYFAYEDTGDRGMAQQRET
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------CEFLKPLREDCKSSQPNIDRADVANYLRSF
+ATM_ARATH       MVLQNSILYVGETSENERDKLIKQNMVSIVSFILSCASSSPEPPVPTFSRDTISLAVQTV
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       ATKVYDTLKGEDFLGKQIDQVFISNLPEIVVELLMTLHETADSADSDASQSATALCDFSG
+ATM_HUMAN       ATKVYDMLKSENLLGKQIDHLFISNLPEIVVELLMTLHE---PANSSASQS-TDLCDFSG
+ATM_PIG         ASKVYDMLKDENLLGKQIDQLFINNLPEIVVELLMTLHE---PATSDASQS-TDPCDFSG
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       LLSPTP------------------------------------------------------
+ATM_ARATH       VDGFLENTDYPKNAAITDRINIFRPDRVFMFITEMHYRMSAACHHRHTRHHLAALEELTI
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       DLDPAPNPPYFPSHVIQATFAYISNCHKTKFKSILEILSKIPDSYQKILLAICEQAAETN
+ATM_HUMAN       DLDPAPNPPHFPSHVIKATFAYISNCHKTKLKSILEILSKSPDSYQKILLAICEQAAETN
+ATM_PIG         DLDPRPNPPHFPSHVIKATFAYISNCHKTKLKSILEVLSKSPDSYQKILLAICEQAAETN
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       LLGHRALVPSSLNYIFNLVGQFIGYPSLQDQCCSIASCLLDLFKSNPAKEIVSVLGDQLQ
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       NVFKKHRILKIYHLFVSLLLKDIQSGLGGAWAFVLRDVIYTLIHYINKRSSHFTDVSLRS
+ATM_HUMAN       NVYKKHRILKIYHLFVSLLLKDIKSGLGGAWAFVLRDVIYTLIHYINQRPSCIMDVSLRS
+ATM_PIG         NVYKKHRILKIYHLFVSLLLKDMKSGLGGAWAFVLRDVIYTLIHYINKRPSRFMDVSLRS
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       FLVSKLVTCCIDAEADTKISGAKSSQLVNLLHKLVVSSDSSLNEDIRDLEPLPDLKYFQV
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       FSLCCDLLSRVCHTAVTQCKDALESHLHVIVGTLIPLVDYQ-EVQEQVLDLLKYLVIDNK
+ATM_HUMAN       FSLCCDLLSQVCQTAVTYCKDALENHLHVIVGTLIPLVYEQVEVQKQVLDLLKYLVIDNK
+ATM_PIG         FSLCCDLLSRVCHTAVTYSKDALESHLHVIVGTLIPLVDGQMEVQKQVLDLLKYLVIDNK
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       ------------------------------------------------------------
+ATM_ARATH       IRESHIRICEAYSPRNHLLKVEHSTFLIYIFLEILSLSNFLFLSCSTIQQCSRRSNYLPP
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       DNKNLSVTIKLLDPFPDHV----------IFKDLRLTQQKIKYSGGPFSLLEEINHFLSV
+ATM_HUMAN       DNENLYITIKLLDPFPDHV----------VFKDLRITQQKIKYSRGPFSLLEEINHFLSV
+ATM_PIG         DNENLYVMIKLLDPFPDNA----------VFKDLRITQQEIKYSKGPFSLLEEINHFLSV
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       -----------ERLRDLRTYIAEHKDKVQE---------HEKLLFGVINKLIQMTRDAHN
+ATM_ARATH       RFLSRSLQALHNKLIASEVSQEDTNGETAETFWQSDDEIVNAVWTLVRVSASDEADSMRL
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       SAYNPLPLTRLEGLKDLRRQLEQHKDQMLDLLRASQDNPQDGIVVKLVVSLLQLSKMAVN
+ATM_HUMAN       SVYDALPLTRLEGLKDLRRQLELHKDQMVDIMRASQDNPQDGIMVKLVVNLLQLSKMAIN
+ATM_PIG         SVYDALPLTRLEGLKDLRRQLAQHKDQMMDLMRASQDNPQDGIVVKLVVSLLQLSKMAVN
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       KTTSIDSL----KCLAQIGPLKISTVS------YYFQTDFEAFEKSNGEPMEAFLGVVCH
+ATM_ARATH       LVSDFLSRIGIRDPHTVVFHLPGNLVSMHGLQGFGHNTGSKVRSLTENGISDETLITLLN
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       QTGEREVLEAVGRCLGEIGPLDFSTIAVQHNKDVSYTKAYGLPEDRELQWT----LIMLT
+ATM_HUMAN       HTGEKEVLEAVGSCLGEVGPIDFSTIAIQHSKDASYTKALKLFEDKELQWT----FIMLT
+ATM_PIG         HTGEREVLEAVGRCLGEVGPIDFSTIAIQHSKDMPYTKALELFEDKEHHWT----LMMLT
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       SLDTSLFQFDPKTHEGLVSVAIQVVNSKPGSNIMERYK--------------NLRI--FA
+ATM_ARATH       FLKKYLLDDSVKIIDVTSQTLRGILSTERGQQALSSFDSCERALIEVHGRGVNLDIVEKI
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       ALNNTLVEDSVKIRSAAATCLKNILATKIGHIFWENYKTSADPMLTYLQPFRTSRK--KF
+ATM_HUMAN       YLNNTLVEDCVKVRSAAVTCLKNILATKTGHSFWEIYKMTTDPMLAYLQPFRTSRK--KF
+ATM_PIG         YLNSTLVEDCVKVRSAAVTCLKSILATKTGHGFWEIFKTTADPMLTYLLPFRTSRK--KF
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ------------------------------------------------------------
+ATM_ASPFU       ------------------------------------------------------------
+ATM_ASPOR       ------------------------------------------------------------
+ATM_NEUCR       ------------------------------------------------------------
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       DKSTASTFLHSNKQIRRIDWLSILKATKSLSYEPWMCAFVSKVFQMCGWLGFDKLAATSF
+ATM_ARATH       LLDSQKQFKAEKFSLETPEVWSTDNKNFDRWICQLVYCMI--ALCEDVPIRLCQNIALLK
+ATM_CRYNB       ------------------------------------------------------------
+ATM_CRYNJ       ------------------------------------------------------------
+ATM_MOUSE       LEVPRSVKEDVLEGLDAVNLWVPQSESHDIWIKTLTCAFLDSGGINSEILQLLKPMCEVK
+ATM_HUMAN       LEVPRFDKENPFEGLDDINLWIPLSENHDIWIKTLTCAFLDSGGTKCEILQLLKPMCEVK
+ATM_PIG         LEVPRLNKESPLEGLDDISLWIPQSENHDIWIKTLTCALLDSGGINSEVLQLLKPMCEVK
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       --------------LENVHGWD-LSLSPSYWARNVG-LFLSKAAAEDPVIGSLSNILYLI
+ATM_ASPFU       ---------------DTIVRWNP-GISFAHWARSIG-LFLTKAAPQDPVIGPLRNILHVI
+ATM_ASPOR       ------------------------------WARGIA-LFLSKSAAEDPVIGSLSHIIYVI
+ATM_NEUCR       ------------------------------WAQQLT-TLLAQSVPGSVALRVLPPILTKV
+ATM_GIBZE       ------------------------------------------------------------
+                                                                            
+
+ATM_DROME       AFAKTCLLPFIK--LLLENSLE-----HVESLSQMLDYFFEGFTSSTAPNSQEIFRN---
+ATM_ARATH       AEISELLFPSVV--VSLAGRIG-----MDINLHDLITSQVKEHIFTDSNKL---------
+ATM_CRYNB       -------LGHFVHAALVCSRS------MSSERSKAISEHFETVLQNPFAS----------
+ATM_CRYNJ       -------LGHFVHAALVCSRS------MSSERSKAISEHFETVLQNPFAS----------
+ATM_MOUSE       TDFCQMLLPYLIHDVLLQDTHESWRTLLSAHVRGFFTSCFKHSSQASRSATPANSDSESE
+ATM_HUMAN       TDFCQTVLPYLIHDILLQDTNESWRNLLSTHVQGFFTSCLRHFSQTSRSTTPANLDSESE
+ATM_PIG         TDFCQTVLPYLIHDILLQDTNESWRSLLSTHIQGFFTNCFRHSSQTSRSTTPANMDSESE
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       PDLAVQLLPYILHDALLAEIRG-----KVAEVRDSISQIFNETLRAGAENS---------
+ATM_ASPFU       PSLAVRILPYILHDVLLTEPDG------VANVRKTISDVFQQGLHEADAHS---------
+ATM_ASPOR       PELAVRILPYMLHDVLLAELKG------EANIRQKVSQIFKQALCDVHDTT---------
+ATM_NEUCR       KGFAEQAFPFIVHNVLEYELDQ------TQGMKQKLSEALKEWLTSTSPAA---------
+ATM_GIBZE       ---------HLARN-------------QQHSPKRQLSVAIKSWLECTVTEA---------
+                                                                            
+
+ATM_DROME       --------KRAIKKFLHICEYIR-------------------------------------
+ATM_ARATH       --------TKSKQVMLNTLNELRMCYVLERSIFSGQTKREKNSRSCSTAAKIRDVESGSN
+ATM_CRYNB       --------IEAVRSIVNIVLQLR---------------RYEHPFTSGM------------
+ATM_CRYNJ       --------IEAVRSIVNIVLQLR---------------RYEHPFTSGM------------
+ATM_MOUSE       NFLRCCLDKKSQRTMLAVVDYLR---------------RQKRPSSGTA------------
+ATM_HUMAN       HFFRCCLDKKSQRTMLAVVDYMR---------------RQKRPSSGTI------------
+ATM_PIG         HVFRCHLDKKSQRTMLAVVDYMR---------------RQKRSSSGTV------------
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       --------IPHARLIIKCVLYLR---------------NQPKPGEETI------------
+ATM_ASPFU       --------IPHVRLIINCLLYLR---------------NQPRPQEATI------------
+ATM_ASPOR       --------ISHARLAIDCILYLR---------------NQPKPNEATI------------
+ATM_NEUCR       --------RDNQKLLINTILYLR---------------TQANPNETSI------------
+ATM_GIBZE       --------KENQKLLINMLLYLR---------------TQQYPKESSI------------
+                                                                            
+
+ATM_DROME       ----------IFNNWTIPINLSNVVMASNHCQAYFLSIMYLELWACSESPKSKADFLDN-
+ATM_ARATH       GMAASITTNWEKVYW-LSIDYLVVAGSAVVCGAYLTASMYVEYW-CEEKFGNLSLGDPDF
+ATM_CRYNB       ---------LGYNAW-LSVNFVDLSKAAVKCGLYVSALLFLELANDQGESLDLAE-----
+ATM_CRYNJ       ---------LGYNAW-LSVNFVDLSKAAVKCGLYVSALLFLELANDQGESLDLAE-----
+ATM_MOUSE       ---------FDDAFW-LDLNYLEVAKVAQSCSAHFTALLYAEIYSDKKSTDEQEKRSPTF
+ATM_HUMAN       ---------FNDAFW-LDLNYLEVAKVAQSCAAHFTALLYAEIYADKKSMDDQEKRSLAF
+ATM_PIG         ---------FDDAFW-LELNYLEVAKVAQSCAAHFTALLYAEIYADKKNMDDQEKRSPTF
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ---------VDRDDW-LDINYAVASSAASRCRLPKTALMFLETHVSRCTASSRRSSVAKY
+ATM_ASPFU       ---------VERDEW-LEIDFAVASRAANTCGLPKTALLFLEIQASRAVSGSRRSSLVKY
+ATM_ASPOR       ---------VERDEW-LEIDFAEASLAASRCRLPKTALIFLEIHASRVIFGSRRSSLAKY
+ATM_NEUCR       ---------ADRLHW-LEVNFSIAAAAATRCGMYKVALLFAELASTEITRQSRRSSAIQG
+ATM_GIBZE       ---------ADRSHW-LEVDSALVAAAASRCGMYKTSLLFVEYVPPETSRSSRTSSAATK
+                                                                            
+
+ATM_DROME       ---------------------ECFQDGAKKAYESIGCLDAIPG-----FVNPMRSRLDFL
+ATM_ARATH       SYHDKL---------------PDHVEILVSAITRINEPDSLYGVIHSNKLSA--QIITFE
+ATM_CRYNB       ---------------------PRVRQIMYDIYSNVEDPDGFYGIHNKDIRDSLRRRLEHE
+ATM_CRYNJ       ---------------------PRVRQIMYDIYSNVEDPDGFYGIHNKDIRDSLRRRLEHE
+ATM_MOUSE       EEGSQGTTISSLSEKSKEETGISLQDLLLEIYRSIGEPDSLYGCGGGKMLQPLTRIRTYE
+ATM_HUMAN       EEGSQSTTISSLSEKSKEETGISLQDLLLEIYRSIGEPDSLYGCGGGKMLQPITRLRTYE
+ATM_PIG         EEGSQSTTISSLSEKSKEETGISLQDLLLEIYRSIGEPDSLYGCGGGKMLQPLTRLRTYE
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       ---------------------DLPAGLLHDIFKNIDDPDFFYGVQQTSSLDSVIETLEHE
+ATM_ASPFU       ---------------------EPPPDLLHDIFRNVDDPDLFYGVQQSSSLESVMETLEHE
+ATM_ASPOR       ---------------------EAPPDMLHDIFKDIDDPDFFYGIQQSPSLDSVMERLQHE
+ATM_NEUCR       L--------------------GDTSEILLDIFENIDDPDAYYGLTQDASLSTVLARLEYE
+ATM_GIBZE       E--------------------VDMSETLLAIFENIDDPDAYYGLPEEPSLSKILARVEYE
+                                                                            
+
+ATM_DROME       GHGS---NLSTILLESDH-----LDRASG----------------------------QLC
+ATM_ARATH       HEGNWTRALEYYDLQARSQKMVVPSSLSENLEVEQFQPTTSARHSVFGEGEVQRQPFKGL
+ATM_CRYNB       GLSWQALGWAGAVYNVDG-----NDSRSA----------------------------IPV
+ATM_CRYNJ       GLSWQALGWAGAVYNVDG-----NDSRSA----------------------------IPV
+ATM_MOUSE       HEATWEKALVTYDLETSI-----SSSTRQ----------------------------SGI
+ATM_HUMAN       HEAMWGKALVTYDLETAI-----PSSTRQ----------------------------AGI
+ATM_PIG         HEAMWGKALVTYDLETAI-----SSSTRQ----------------------------AGI
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       SSGFKNLLFQSAQYDSEIQM---TGSGNA----------------------------YGV
+ATM_ASPFU       SSGFKNLLFQSAQYDCEIQM---SGDADA----------------------------HGL
+ATM_ASPOR       SSGFKNLLFQSAQYDSEIQM---SADQNA----------------------------YGV
+ATM_NEUCR       NDGTKSLAFRGAQYDSHLRRRDVASQQDG----------------------------QAL
+ATM_GIBZE       NDGPMSLAFRGAEYDSNVHLGNPMAQSDG----------------------------QAL
+                                                                            
+
+ATM_DROME       IDIMKGNGLWSFAKLQQHQN-------------IEPDY-EIFWRLGQWDSLT-------D
+ATM_ARATH       IRSLQQTGCMHVLDLYCRGLTSREGCFQYDPEFIELQY-EAAWRAGKWDFSLLYPQTHCQ
+ATM_CRYNB       LHHLHDIGLSRLASVVATET-----RTSGSVPLDDPFFADLSWRTGDWNLPI-------G
+ATM_CRYNJ       LHHLHDIGLSRLASVVATET-----RTSGSVPLDDPFFADLSWRTGDWNLPI-------G
+ATM_MOUSE       IQALQNLGLSHILSVYLKGL--DYERREWCAELQELRY-QAAWRNMQWGLCA-------S
+ATM_HUMAN       IQALQNLGLCHILSVYLKGL--DYENKDWCPELEELHY-QAAWRNMQWDHCT-------S
+ATM_PIG         IQALQNLGLCHILSVYLKGL--DHENKEQCAELQELHY-QVAWRNMQWDSCV-------S
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       LKALNSTNLQGIANSMIGAL---GNSSDTAVPLGSML--KAATNLRQWEIPI-------S
+ATM_ASPFU       LKALNSSNLQGIANSLTSTL----RGSKSSVSFDSMM--QAAIDLRQWDLPV-------S
+ATM_ASPOR       LKALNSTNLQGIANSIFSAS--GGGFVDTSSSFDSML--QAATNLRQWDIPV-------S
+ATM_NEUCR       IKALSSLGLAGLSNSLLQTQ----QSLDGSSTSLDSTF-ITARRLEIWNLPA-------P
+ATM_GIBZE       VRAFSTLGLSGPSNWFLQTQ----DNMETSPPVLEDTF-NTARKLGIWNLPA-------P
+                                                                            
+
+ATM_DROME       PKHQQNQTVVRTSLDLEQEFKRHHFVALRSIGQR-EEENSLSAIEQAYSCVRDILMEISV
+ATM_ARATH       PLQHAKNNNYHESL----------HCCLRALQEG-DYDGFYGKLKDT---KKELVLSISR
+ATM_CRYNB       RESSATSSGLL-------------YSALSAVHRSKSYESASKIVDKA---VRAEMTRLGG
+ATM_CRYNJ       RESSATSSGLL-------------YSALSAVHRSKSYESASKIVDKA---VRAEMTRLGG
+ATM_MOUSE       AGQEVEGTSYHESL----------YNALQCLRNR-EFSTFYESLRYASLFRVKEVEELSK
+ATM_HUMAN       VSKEVEGTSYHESL----------YNALQSLRDR-EFSTFYESLKYA---RVKEVEEMCK
+ATM_PIG         VNKGMEGTSYHESL----------YNALQSLRDR-EFSTFYESLKYA---RVKEVEELCK
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       PLNTSPPATI--------------FRAFQALNTPGPLVDMRASIGES---YRSNLNLINS
+ATM_ASPFU       PMNHSPSAAL--------------FRTFQSLNTSTSLVDVSNSVNES---LLAILGSLGS
+ATM_ASPOR       PLNPSPPATV--------------FRAFQSLNTSGSLAEASKSINEC---LLTTLESLTS
+ATM_NEUCR       AATENWAVTV--------------YKAYQSMHQASDINMVRSAVHDG---LTKTLKHLTG
+ATM_GIBZE       PSDHHAVTV---------------FKAYQSIHQATDIANVRAAVHDG---FGRTMSSLVV
+                                                                            
+
+ATM_DROME       ECLQSVYKYLTWLCSLQQAEDF--------------------------CQIQFGTQLDPA
+ATM_ARATH       ASEESTEFIYSTVVKLQILHHLGLVWDLRWTTSSHQSVHGYLVKQMACVDPVIPTMDQLS
+ATM_CRYNB       LQKEMLTSIQSTVTNLLCLRELNRW-----------------------LDPQLQQGMQEA
+ATM_CRYNJ       LQKEMLTSIQSTVTNLLCLRELNRW-----------------------LDPQLQQGMQEV
+ATM_MOUSE       GSLESVYSLYPTLSRLQAIGEL---------EN---------------SGELFSRSVTDR
+ATM_HUMAN       RSLESVYSLYPTLSRLQAIGEL---------ES---------------IGELFSRSVTHR
+ATM_PIG         GSLESVYSLYPTLSRLQAIGEL---------EN---------------IGELFSRSVTDR
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       DRRSAT-SLRTAMRTLGILTE---------------------------IEEVLGSGSAA-
+ATM_ASPFU       TSRSAM-SFRAAMRDLGIVTE---------------------------ISDVLSATSLE-
+ATM_ASPOR       ASRSAM-SLRTAMRVLGVITE---------------------------VSDVLDARSTE-
+ATM_NEUCR       KSLNTL-TLRHQLGALATLAE---------------------------LDDVLNTGDLS-
+ATM_GIBZE       HSLNAT-ALRKRLGALASLTE---------------------------LDDVLGVSDSS-
+                                                                            
+
+ATM_DROME       STTKIFRKWQTELEL-KYGNFSCKEYVIAHQIALLKLAGTR-------ASRRMSEFYQKD
+ATM_ARATH       WLNKDWNSIITQTQL----HMTLLEPFIAFRRVLLQILGCE------------------K
+ATM_CRYNB       IDRGTLRDLQDINDKF---EFASAERIIATRLSVFDSVKQRESQDMIGDALTPKMELVTK
+ATM_CRYNJ       IDKGTLRDLQDINDKF---EFASAERIIATRLSVFDSVKQRESQDMIGDALTPKMELVTK
+ATM_MOUSE       ERSEAYWKWQKHSQLLKDSDFSFQEPLMALRTVILETLVQKE---MERSQ----GACSKD
+ATM_HUMAN       QLSEVYIKWQKHSQLLKDSDFSFQEPIMALRTVILEILMEKE---MDNSQ----RECIKD
+ATM_PIG         QPSEVYNKWWKHSQLLKDSDFSFQEPIMALRTVILEILMEKE---MENSQ----RECLKD
+ATM_SCHPO       ------------------------------------------------------------
+ATM_EMENI       EIDQKWEEISARTSWLKNTDVQEVGEILSSHETLFSSIKQKD---YLRSAFNLSDIDAQL
+ATM_ASPFU       ELSEEWRKIAERNSWLKATSVDEVGEILKCHEALFSSIKTRD---YLKSAVGLSDRDAQL
+ATM_ASPOR       EIDHEWQKIAARDSWLKTTSVHEIGEILNSHEALFSSINRKS---YLRSSTNISDHDAQL
+ATM_NEUCR       ELNGIIEDFQARSKWMMSGQYDDVSRILSCRETTLSLWSQRH---NLRPA-RLTPANARL
+ATM_GIBZE       EMNLLIEKFKNRSGWMRSGLYESVGQILSCRSTTMSMVSQQE---TLRTNIKLSAATARQ
+                                                                            
+
+ATM_DROME       PISTYLMKGIEECKSAGKLNLAAKYTATLRELPNIRESI----KISVLLEDAEINLKMGN
+ATM_ARATH       CTMQHLLQSASLLRKGTRFSHAAASLHEFKFLCARSNGQQPVPDWLGKLEEAKLLHAQGR
+ATM_CRYNB       AESTCHIKLSRLALKSNNLQAAINSLTALQKLQTDVGVI-----DEAQDVFCEVLWKQGE
+ATM_CRYNJ       AESTCHIKLSRLALKSNNLQAAINSLTALQKLQTYVGVI-----DEAQDVFCEVLWKQGE
+ATM_MOUSE       ILTKHLVEFSVLARTFKNTQLPERAIFKIKQYNSAICGI-----SEWHLEEAQVFWAKKE
+ATM_HUMAN       ILTKHLVELSILARTFKNTQLPERAIFQIKQYNSVSCGV-----SEWQLEEAQVFWAKKE
+ATM_PIG         ILTKHLVELSLLARTFQNTQLPERAIFQIKQYNSANCGV-----SEWQLEEAQVFWAKKE
+ATM_SCHPO       ---------------------------------------------------SKILWQRDE
+ATM_EMENI       LEVKVIRQSLHIARNHGIAQASLRSAVYLSKLANHSVSLGLNIEGVAKFDLANVLWDQGE
+ATM_ASPFU       LEVKVIRQSLSITRSHGIPQVSLKSAMRLSKLADLCVVQGINVEGATKFDLANVLWDQGE
+ATM_ASPOR       LEVKAIRQSLHITRTQGIQQASLKSAVYLSKLAHQCSALGINIEGAAKFDLANVLWDQGE
+ATM_NEUCR       AQIRGMLVSSDIYRFHRATQETLNLSTTLTDLIRPSEQMGLAVDAAIRMETANSLWDQGE
+ATM_GIBZE       MEVESMITASQIYRYHQATQESLKISTILTKLIPSCTALDLHVDAAVTIEAANSAWDYGQ
+                                                                   .:       
+
+ATM_DROME       QQIAKAILDYVTNNNEFVYC-VQRVPALRMQGEFLLDCN---------------------
+ATM_ARATH       HEVSISLANYILHNYQL--K-EEASDIYRVI-----------------------------
+ATM_CRYNB       HTLAIQLLEDLLLREKEKKSKGQRIPALEGR---L-------------------------
+ATM_CRYNJ       HTLAIQLLEDLLLREKEKKSKGQRIPALEGR---L-------------------------
+ATM_MOUSE       QSLALSILKQMIKKLDSSFKDKENDAGLKVI---YAECL---------------------
+ATM_HUMAN       QSLALSILKQMIKKLDAS-C-AANNPSLKLT---YTECL---------------------
+ATM_PIG         QSLALSILKQMIKKLDAS-C-TENDPRLKLI---HIECL---------------------
+ATM_SCHPO       KIDAIGMLSESLSKTN-----SSIFPSISYA---YL------------------------
+ATM_EMENI       MAPSIQILQQLKDRNDL--H-KQAIPISRAE---LLVTL---------------------
+ATM_ASPFU       MAASIRMLQQLDNQGDL--H-KQAIPISRPE---LLVTL---------------------
+ATM_ASPOR       MTASIRMLHQLKDQNDL--H-KQAVPISRAE---LLVTLVSSLHIDSLRTKPCSFRTNST
+ATM_NEUCR       MISSIRMLQNIDKESPL--E-KQTVPVSRSD---LLSKI---------------------
+ATM_GIBZE       MSTSIRMLQDIDKDSVL--E-KQTLPVSRSD---LLSKI---------------------
+                   :  :                                                     
+
+ATM_DROME       AETLSWVQSHKFNNSLKLIDDFVQHRQ-TLSEKYRDIFDWHQLDAYASKQRTAAYATIAK
+ATM_ARATH       ---GKWLAETRSSNSRTILEKYLRPAV-SLAEEQSS-----KICKRLVDRQSQTWFHLAH
+ATM_CRYNB       ---AHWASEARLKAANEIFGMFSNVTKSIKRSTADV-----SEHA-------EIFYQFAC
+ATM_CRYNJ       ---AHWASEARLKAANEIFGMFSNVTKSIKRSTADV-----SEHA-------EIFYQFAC
+ATM_MOUSE       RVCGSWLAETCLENPAVIMQTYLEKAV-KVAGSYDG------NSRELRNGQMKAFLSLAR
+ATM_HUMAN       RVCGNWLAETCLENPAVIMQTYLEKAV-EVAGNYDG-----ESSDELRNGKMKAFLSLAR
+ATM_PIG         RVCGTWLAETCLENPAVIMQTYLEKAV-ELAGNYDG-----ESNDELRNGKMKAFLSLAR
+ATM_SCHPO       ---GNWLYTTKSEKTELVSKNYFEKSL-SHMSHLNA-----KEKA-------KIYCMFAQ
+ATM_EMENI       -SQGHHIAEARLEKPEAIIQNYLTPAVKELKGRSEG-----EDAG-------RVYHGFAI
+ATM_ASPFU       ---GHHVAEARLEKPEAIIQGYLGPAVKELKNRSEA-----EEAG-------RVYHGFAT
+ATM_ASPOR       SCKGHHVAEARLEKPETIIQDYLLTAVKELKGRSGG-----EEAG-------RVYHGFAT
+ATM_NEUCR       ---GYQVSVARLESPDTIQKNYLEPALKELKGKSEG-----KEAG-------RVYHQFAM
+ATM_GIBZE       ---GYQVSVARLEKPHDIQKNYLEPALKELKGKGQG-----RQAG-------SVFHQFAM
+                     .      . .  :   :                                :  :* 
+
+ATM_DROME       YADREYQQLHDYRHSQEYQTLKDIIEQNRQTAEKVTQRENQDR--------RVISVQM--
+ATM_ARATH       YADALFKSYEERLSSSEWQAALRLRKHKTKELEVFIKRFKSSKKAEQ----SDYSLKIQD
+ATM_CRYNB       FADKQYVSQSSS---ADVKQLKEYSKLRASQALRLSARQSRARE-------SDQKDSA--
+ATM_CRYNJ       FADKQYVSQSSS---ADVKQLKEYSKLRASQALRLSARQSRARE-------SDQKDSA--
+ATM_MOUSE       FSDTQYQRIENYMKSSEFENKQTLLKRAKEEVGLLREHKIQT---------NRYTVKV--
+ATM_HUMAN       FSDTQYQRIENYMKSSEFENKQALLKRAKEEVGLLREHKIQT---------NRYTVKV--
+ATM_PIG         FSDTQYQRIENYMKSSEFENKQALLKRAKEEVGLLREHKIQT---------NRYTIKV--
+ATM_SCHPO       FCDNNYSSPDLT---EDFKRMEKLYFEKKNDIQQLERSIVNASNMKEEKMLKNHHSRE--
+ATM_EMENI       FCDQQLQNPDGL---EDFARIEQLRNRKEKEVVALDAMLKTAEGKERDNL-KFHRTKT--
+ATM_ASPFU       FCDQQLQNPDGL---EDFRRAEQLRNRKEKEVLGLEEMMKNAEGKEREAL-RHYRTKT--
+ATM_ASPOR       FCDQQLQNPDGL---EDFTRVEQLRNRKEKEVRALEDMMKAAEGREREAL-KFHRGRT--
+ATM_NEUCR       FCDEQLQNPDGL---EDLARLQNLERGKNDEVTQLKALIASTRDSQLK---NKYSSHLSK
+ATM_GIBZE       FCDQQLQDPDGL---EDLARLQSLKKAKSDEVSELKTLISGTRDTQLK---TRYSHVLNK
+                :.*             :            .    .                         
+
+ATM_DROME       -KRYASLDEQQLNQIEEKLTEYLRLALTNYMAYCRLDSGFSSAAIYRIISLWFTNATSKQ
+ATM_ARATH       LQKQLTMDKEEAEKLQVDRDNFLKLALEGYKRCLEIGDKYDVRVVFRQVSMWFSLASQKN
+ATM_CRYNB       -VREAERDEEKLKKFEMQQKQYLNAALQFYAEAVSMSDNFND-CITRLVTLWLENDENEE
+ATM_CRYNJ       -VREAERDEEKLKKFEMQQKQYLNAALQFYAEAVSMSDNFND-CITRLVTLWLENDENEE
+ATM_MOUSE       -QRELELDECALRALREDRKRFLCKAVENYINCLLSGEEHDL-WVFRLCSLWLENSGVSE
+ATM_HUMAN       -QRELELDELALRALKEDRKRFLCKAVENYINCLLSGEEHDM-WVFRLCSLWLENSGVSE
+ATM_PIG         -QRELELDEGALRALKKDRKRFLCKAVENYINCLLSGEGHDM-WIFRLCSLWLENSGVSE
+ATM_SCHPO       -MSSFIIDEREYLRMSTFRSKMLTQSITHYLKCLSESDENDV-LISRCCTMWLSNSHLDE
+ATM_EMENI       -KQWFDLDDREYQRLKRSREAFLQQCLENYLICLRESEAYNN-DVLRFCALWLAQSHSDI
+ATM_ASPFU       -KQWFDLDDREYQRLRRSREAFLQQCLENYLLCLKESDMYNN-DALRFCALWLGKSDSEI
+ATM_ASPOR       -KQWFDLDDREYQRLRRSREAFLQQCLENYLLCLRESETYNN-DVLRFCALWLDKSDSDI
+ATM_NEUCR       AKQWLDLDQQELRRVEQTRSEFVRLSLQNYLLSLAASDEYNN-DALRFTALWLECSEDDM
+ATM_GIBZE       EKQWLNLDEQELRRVEQTRSEFVRLSLENYLLSLIASDEHNN-DALRFTALWLERSEEES
+                       *.     .       :  .:  *      ..  .     *  ::*:     . 
+
+ATM_DROME       CQECIKDEILTVPSYKFICAANQLTARL---NS--KNTSLLKGLTDLLVQCGKDHPYHTF
+ATM_ARATH       VIDNMLSTIKEVQSYKFIPLVYQIASRLGSSKDESGSNSFQSALVSLIRKMAIDHPYHTI
+ATM_CRYNB       SNVTFSRAAHKVPSYKFIFLGPQLAARL-HRPE--SPTIFNSTLNGLMFRMSQDHPYHTL
+ATM_CRYNJ       SNVTFSRAAHKVPSYKFIFLGPQLAARL-HRPE--SPTIFNSTLNGLMFRMSQDHPYHTL
+ATM_MOUSE       VNGMMKKDGMKISSYKFLPLMYQLAARMGTKMT--GGLGFHEVLNNLISRISLDHPHHTL
+ATM_HUMAN       VNGMMKRDGMKIPTYKFLPLMYQLAARMGTKMM--GGLGFHEVLNNLISRISMDHPHHTL
+ATM_PIG         VNGMMKRDGMKIPSYKFLPLMYQLAARMGTKMM--GGLGFHDVLNSLISRISVDHPHHTL
+ATM_SCHPO       LNNSLQHYLQNLPCKKFIPVFYQLAARL---MN--ENSKFQQSLTSICYNVGRNHPYHSL
+ATM_EMENI       ANSAVSKYIAGVPSRKFAPLMNQLTSRL---LD--VSDDFQALLSELIYRICSDHPFHGM
+ATM_ASPFU       ANKAVSKYLNQVPSRKFAPLMNQLTSRL---QD--TSDEFQNMLFALIFRICVEHPFHGM
+ATM_ASPOR       ANAAVSKHLGQVPSRKFAPLMNQLTSRL---LD--VPDEFQKMLFSLITRICVEHPFHGM
+ATM_NEUCR       VNEVVKRYLSKVPTRKFAPLINQLSSRL---QH--QEGLFQITLIGLVYSICLDHPYHGM
+ATM_GIBZE       TNQAVMRHLSEVPTRKFAGLTNQLTSRL---QD--NNTTFQKLLLELVYKICVDHPYHGM
+                    .      :   **     *:::*:           :   *  :      :**.* :
+
+ATM_DROME       YQLYPL------------------VFAHLDGENSNTERSGIARKIIAMICEKNGTAG-EC
+ATM_ARATH       LQLLALANGDR-------------IKDNQRSRNSFVVDMDKKLAAEHLLQDVSHYHG-PM
+ATM_CRYNB       YHVIPL------------------LWEHKQPQSTNSSMLGRKSAADDIMRRLASSASNRL
+ATM_CRYNJ       YHVIPL------------------LWEHKQPQSTNSSMLGRKSAADDIMRRLASSASNRL
+ATM_MOUSE       FIILALANANKDEFLSKPETTRRSRITKSTSKENSHLDEDRTEAATRIIHSIRSKRC-KM
+ATM_HUMAN       FIILALANANRDEFLTKPEVARRSRITKNVPKQSSQLDEDRTEAANRIICTIRSRRP-QM
+ATM_PIG         FIILALANANKDEFLTKPEAARSSRITKNTPKESSQLDEDRTEAANKVICTLRNRRR-QM
+ATM_SCHPO       HVLFSL--------------------VSNVPEIENLDAGSRYRAVKKILDLLKVN-Q-GL
+ATM_EMENI       YQIFA---------------------SSKSKGGRDQSALSRNRAAAKLADIMRNDR--HI
+ATM_ASPFU       YQIFA---------------------SSKSKGGKDPSALSRNRAASRLVDCLKNDK--RI
+ATM_ASPOR       YQIFA---------------------SSKSKGGKDETALSRNRAAGRLVEGLKNDK--RI
+ATM_NEUCR       YQIWSG--------------------VKARSIKNDEVALSRQKATDKIARAIKKSGA-SA
+ATM_GIBZE       YQIWSG--------------------TKAKAQQKDDVAVLRVRATDRVAKSLAET-Q-SV
+                  : .                                          :            
+
+ATM_DROME       SKQLESLLPALITFANEGKTNDNRPVSDSVRNKQFDKVRRWRNLNAVHC------PTLEL
+ATM_ARATH       IRQMKQLVDIYIKLAELETRREDTN----RKVALPREIRSVKQLELVPV------VTATI
+ATM_CRYNB       AVGAAKSMKRFVAIAMEWTSFFEKDKRLEYKLPSDSPLRKAP--RDIPV------ATSTP
+ATM_CRYNJ       AVGAAKSMKRFVAIAMEWTSFFEKDKRLEYKLPSDSPLRKAP--RDIPV------ATSTP
+ATM_MOUSE       VKDMEALCDAYIILANMDASQWRAQ-RKGINIPANQPITKLKNLEDVVV------PTMEI
+ATM_HUMAN       VRSVEALCDAYIILANLDATQWKTQ-RKGINIPADQPITKLKNLEDVVV------PTMEI
+ATM_PIG         VRSVEALCDAYIILANLDATQWRTQ-RKGIRIPADQPITKLKNLEDVVV------PTMEI
+ATM_SCHPO       SNLVTKLLCSFENYVSLA--EWNP--RSKVDSTSFSRFPGYKWFLKDAANYGLPPITMNV
+ATM_EMENI       GPLWVAVHNTNINYVRFAVERLDDKAKSGAKIRLNKLAPGIR-LEQDAVNQRLPPPTMKI
+ATM_ASPFU       GPTWVAVHNANISYVRFAVDRLDEKVKSGAKVPLKKLLTGQR-LEQDASTQKLPPPTMKI
+ATM_ASPOR       GPTWVAVHNTNINYVRFAIDRPDEKLKSGARVPLRKLQTGGR-LEQDAATQKLPPPTMNI
+ATM_NEUCR       AKIYLAINATSKVYHNLAMDRDAKKYKAGHKMNIKDSKAGLEFLAAFAE-FPIPPPTMQM
+ATM_GIBZE       ANIWLSIDKTSKYYHALAMDRNPNKYKSGVKIPLRDSTPGHN-LVNCLAKYRIPSPTMHI
+                                                                        *   
+
+ATM_DROME       PVMPSKEY---SIISVVKWTNETTQCGGLNAPVKIMCVCSDGKIRAQLVK-GKDDLRQDA
+ATM_ARATH       PVDRSCQYNEGSFPFFRGLSDSVTVMNGINAPKVVECFGSDGQKYKQLAKSGNDDLRQDA
+ATM_CRYNB       SIDVTCQY--KDIATFDHFSEWYTRAGGLSRPKVMTCFDSNGQKYTQLFK-KDDGFRQDA
+ATM_CRYNJ       SIDVTCQY--KDIATFDHFSEWYTRAGGLSRPKVMTCFDSNGQKYTQLFK-KDDGFRQDA
+ATM_MOUSE       KVDPTGEY--ENLVTIKSFKTEFRLAGGLNLPKIIDCVGSDGKERRQLVK-GRDDLRQDA
+ATM_HUMAN       KVDHTGEY--GNLVTIQSFKAEFRLAGGVNLPKIIDCVGSDGKERRQLVK-GRDDLRQDA
+ATM_PIG         KVDPTGEY--GNMVTIQSFKPEFRLAGGLNLPKIIDCVGSDGKERRQLVK-GRDDLRQDA
+ATM_SCHPO       KVNDTGDY--SNIPTVSSFDDTIHFASGINAPKVITCLGSNGHTYKQLVKGGNDDLRQDA
+ATM_EMENI       DIRVDCDY--SDVPKLAKYLPDFTVASGVSAPKIVTAIASNGVRYKQLFKGGNDDLRQDA
+ATM_ASPFU       AIRVDCDY--SEIPKLVRYHPEFTVASGVSAPKIVTAVATDGHKYKQLFKGGNDDLRQDA
+ATM_ASPOR       EIRVDCDY--RDVPKLVKYHPEFTIASGVSAPKIVSAFASNGLRYKQLFKGGNDDLRQDA
+ATM_NEUCR       PLLASCDY--SQVPMIVKFEPQMSIASGVSAPKIITAIGSDGRQYKQLVKGGNDDLRQDA
+ATM_GIBZE       ELSATKDY--SKVPIISKLEPTMTIASGVSAPKIITAVGSDGVRYKQLVKGGHDDLRQDA
+                 :    :*   ..  .          .*:. *  : .. ::*    ** *   *.:****
+
+ATM_DROME       VMQQVFGIVNELLNQDSEFIERKLKLRTYKVTPLSMRSGILEWCTNSVPVGHYLV-VEGK
+ATM_ARATH       VMEQFFGLVNTFLHNNRDTWKRRLAVRTYKVIPFTPSAGVLEWVDGTIPLGDYLIGSSRS
+ATM_CRYNB       VMEQIFVLVNDLLNRNRQTRSRKLRYRTYGVLALPEATGVIEFVVGTKPLIKYLP--P--
+ATM_CRYNJ       VMEQIFVLVNDLLNRNRQTRSRKLRYRTYGVLALPEATGVIEFVVGTKPLIKYLP--P--
+ATM_MOUSE       VMQQVFQMCNTLLQRNTETRKRKLTICTYKVVPLSQRSGVLEWCTGTVPIGEYLV--NSE
+ATM_HUMAN       VMQQVFQMCNTLLQRNTETRKRKLTICTYKVVPLSQRSGVLEWCTGTVPIGEFLV--NNE
+ATM_PIG         VMQQVFQMCNTLLQRNTETRKRKLTICTYKVVPLSQRSGVLEWCTGTVPIGEYLV--NND
+ATM_SCHPO       VMEQVFEQVNGFLRSYRKTSQRNLSMRTYKVIPLALKTGVIEWVQDTIPLGEYLD--S--
+ATM_EMENI       IMEQVFEQVSSLLKDHQATRQRNLGIRAYKVLPLTSNAGIIEFVPNTIPLNDFLM--P--
+ATM_ASPFU       IMEQVFEQVSSLLKDHQATQQRKLGIRTYKVLPLTSNAGIIEFVPHTIPLHDYLM--P--
+ATM_ASPOR       IMEQVFEQVSNLLKDHQATRQRNLGIRTYKVLPLTSNAGIIEFVPHTIPLHDYLM--P--
+ATM_NEUCR       IMEQVFAAVSELLKHHRATRQRNLGIRTYKVLPLTETTGVIEFVSNTIPLHEYLM--P--
+ATM_GIBZE       IMEQVFSAVSSLLKLHRITQQRNLSIRTYKVLPLTASSGLIEFVPNTIPLHEFLM--P--
+                :*:*.*   . :*.      .*.*   :* * .:.  :*::*:   : *:  :*      
+
+ATM_DROME       GGAHARYRPNDWNNNKCRKLSSDHLK-SPKETR-YAIYKKICENIKPVFHYFLLEKFPIP
+ATM_ARATH       EGAHGRYGIGNWKYPKCREHMS-----SAKDKR--KAFVDVCTNFRPVMHYFFLEKFLQP
+ATM_CRYNB       --AHEKYHPKDITSHDFLKAMQEVQSVKNNDEKIIQVWTKLKKRFRPVMRHLFTEKYRDP
+ATM_CRYNJ       --AHEKYHPKDITSHDFLKAMQEVQSVKNNDEKIIQVWTKLKKRFRPVMRHLFTEKYRDP
+ATM_MOUSE       DGAHRRYRPNDFSANQCQKKMMEVQK-KSFEEK-YDTFMTICQNFEPVFRYFCMEKFLDP
+ATM_HUMAN       DGAHKRYRPNDFSAFQCQKKMMEVQK-KSFEEK-YEVFMDVCQNFQPVFRYFCMEKFLDP
+ATM_PIG         TGAHKRYRPKDFSPVQCQKKMMEAQN-KSFEEK-YEIFMNICQNFQPVFRYFCMEKFLDP
+ATM_SCHPO       --AHKVYHPKEWSLSTCRKLIAEKQM-EDLETR-LKVYDLVCRHYRPVFRHFFLESYADP
+ATM_EMENI       --AHQRYYPRDMKPSACRKHIADVQT-RSFEQR-VRTYRQVIEKFHPVMRYFFMEKFNNP
+ATM_ASPFU       --AHQRYFPKDMKPNMCRKHISDVQT-RSFEQR-VKTFRQITEHFHPVMRYFFMEKFNSP
+ATM_ASPOR       --AHQKYYPKDMKPNVCRKHISDVQT-RSFEQR-VRTYRQVTEHFHPVMKYFFMEKFNNP
+ATM_NEUCR       --AHEIYYPKDLKGSHCRKEIMNAQS-KSVDTR-VAVYRKVTERFHPVMRYFFMEWFPDP
+ATM_GIBZE       --AHERYYPKDLKGSQCRKEIFGVQG-RAVATR-ISTYRRMTEKFHPVMRYFFMENFMDP
+                  **  *   : .     :             .    :  :  .  **:.::  * :  *
+
+ATM_DROME       GVWFERRLAYTNSVATTSMVGYVLGLGDRHTQNILVDQQTAEVIHIDFGIAFEQGKIQTT
+ATM_ARATH       ADWFVKRLAYTRSVAASSMVGYIVGLGDRHAMNILIDQATAEVVHIDLGVAFEQGLMLKT
+ATM_CRYNB       MAWFSMRLTYARSLAVTSIVGWVLEIGDRHCSNILMDECTGELVHIDFGIAFGAGRILPI
+ATM_CRYNJ       MAWFSMRLTYARSLAVTSIVGWVLEIGDRHCSNILMDECTGELVHIDFGIAFGAGRILPI
+ATM_MOUSE       AVWFEKRLAYTRSVATSSIVGYILGLGDRHVQNILINEQSAELVHIDLGVAFEQGKILPT
+ATM_HUMAN       AIWFEKRLAYTRSVATSSIVGYILGLGDRHVQNILINEQSAELVHIDLGVAFEQGKILPT
+ATM_PIG         AVWFERRLAYTQSVATSSIVGYILGLGDRHVQNILINEQSAELVHIDLGVAFEQGKILPT
+ATM_SCHPO       VQWFTTQTNYARSTAVASVLGHVLGLGDRHGQNILIDKTSGEVIHIDLGIAFEQGKKLPV
+ATM_EMENI       DDWFGRRLSYTQSTAAISILGHVLGLGDRHGHNILLDERTGEVVHIDLGVAFEQGRVLPV
+ATM_ASPFU       DDWFSKRLSYTRSTAAISILGHVLGLGDRHGHNILLDERTGEVVHIDLGVAFEQGRVLPV
+ATM_ASPOR       DDWFSKRLSYTRSTAAISILGHVLGLGDRHGHNILLDERTGEVVHIDLGVAFEQGRVLPV
+ATM_NEUCR       DEWFARRTAYTRTTAAISMLGHVLGLGDRHGHNILLDTKTGEVVHIDLGVAFELGRILPV
+ATM_GIBZE       DEWFLKRLAYTRSTAAISMLGHVLGLGDRHGHNILLDHKTGEVVHIDLGVAFEAGRILPV
+                  **  .  *:.: *. *::* :: :****  ***::  :.*::***:*:**  *     
+
+ATM_DROME       PETVPFRLTRDFVAPMGICGTKGVFAKSCEATMHILRRYKSVFTTILEVLLYDPLFIWGV
+ATM_ARATH       PERVPFRLTRDIIDGMGITGVEGVFRRCCEETLSVMRTNKEALLTIVEVFIHDPLYKWAL
+ATM_CRYNB       PELVPFRLTDDLVDALGVTGVNGTFRQCSQLVLQTLIDSSDVILTILEVFKQDPLHTWMV
+ATM_CRYNJ       PELVPFRLTDDLVDALGVTGVNGTFRQCSQLVLQTLIDSSDVILTILEVFKQDPLHTWMV
+ATM_MOUSE       PETVPFRLSRDIVDGMGITGVEGVFRRCCEKTMEVMRSSQETLLTIVEVLLYDPLFDWTM
+ATM_HUMAN       PETVPFRLTRDIVDGMGITGVEGVFRRCCEKTMEVMRNSQETLLTIVEVLLYDPLFDWTM
+ATM_PIG         PETVPFRLTRDIVDGMGITGVEGVFRRCCEKTMEVMRNSQETLLTIVEVLLYDPLFDWTM
+ATM_SCHPO       PECVPFRLTRDVVDGMGITGVEGVFRRCMEFTLETLRREEDSLLSVLEVLRYDPLFSWLI
+ATM_EMENI       PEVVPFRLTRDLVDGMGITKTEGVFRRCCEFTLEALRQESYSIMTILDVLRYDPLYSWTV
+ATM_ASPFU       PEVVPFRLTRDLVDGMGITKTEGVFRRCCEFTLEALRQESYSIMTILDVLRYDPLYSWTL
+ATM_ASPOR       PEVVPFRLTRDLVDGMGVTKTEGVFRRCCEFTLETLRRESYSIMTILDVLRYDPLYSWTV
+ATM_NEUCR       PELVPFRLTRDIVDGMGITKTEGVFRRCCEFTLDALREETYSIMTILDVLRYDPLYSWSM
+ATM_GIBZE       PEMVPFRLTRDIVDGMGITKTEGVFRRCCEFTLDALREEQYSIMTILDVLRFDPLYTWSI
+                ** *****: *.:  :*:  .:*.* .. : .:  :      : ::::*:  ***. * :
+
+ATM_DROME       -----LKKKQSP-QQSG--------------------EESVNLVAQRALLLVQNKLDGRE
+ATM_ARATH       SPLKALQRQKET-EDYDGMNLEGLQE-----------EFEGNKDATRALMRVKQKLDGYE
+ATM_CRYNB       DD----KMKKAQ-DGNHKMY-----------------PERGQEKADRIMRETRENL----
+ATM_CRYNJ       DD----KMKKAQ-DGNHKMY-----------------PERGQEKADRIMRETRENL----
+ATM_MOUSE       NPLKALYLQQRP-EDESDLHSTPNADDQECKQSLSDTDQSFNKVAERVLMRLQEKLKGVE
+ATM_HUMAN       NPLKALYLQQRP-EDETELHPTLNADDQECKRNLSDIDQSFNKVAERVLMRLQEKLKGVE
+ATM_PIG         NPLKALYLQQRP-EDESELHSTPRADDQECKRNLSDTDQSFNKVAERVLMRLQEKLKGVE
+ATM_SCHPO       SPLRRMKKQKMQLENFNQPESGNITTDASRDPKIQRNNVSGESEAERAILKVRQKL----
+ATM_EMENI       SPLRMKKMQEQD-TSDGPPVLPGSTTDQQR-------PTNEPSEADRALTVVAKKL----
+ATM_ASPFU       SPLRMKRMQDAQ-EAGDGPPMISGAAEDQR-------SANEPSEADRALTVVAKKL----
+ATM_ASPOR       SPLRMKKMQDAS-EAGGGPPMLPGAADQR--------PSNEPSEADRALTVVAKKL----
+ATM_NEUCR       SPLRMARLQNVR-VGAGEDDVVEAEDERRAGDKKSTKNLNEPSEADRALEVVRKKL----
+ATM_GIBZE       SPLRLAKLQKAR-HNDDSPMDDEQSEAETKKGKKAAGHVNEPSEADRALEVVRKKL----
+                        :.                                  * * :    ::*    
+
+ATM_DROME       AGTMGDSNVEAQVERLINEATLPSNLCMLFPGW----
+ATM_ARATH       GGEM--RSIHGQAQQLIQDAIDTDRLSHMFPGWGAWM
+ATM_CRYNB       -SKE--LSVQYRVNQLIQEARDVNNLATIFRGWHSWL
+ATM_CRYNJ       -SKE--LSVQYRVNQLIQEARDVNNLATIFRGWHSWL
+ATM_MOUSE       EGTV--LSVGGQVNLLIQQAMDPKNLSRLFPGWKAWV
+ATM_HUMAN       EGTV--LSVGGQVNLLIQQAIDPKNLSRLFPGWKAWV
+ATM_PIG         EGTV--LSVGGQVNFLIQQAMDPKNLSKLFSGWKAWV
+ATM_SCHPO       -SST--LSVEASVGELIRIAQDPSYLALMFCGWSAF-
+ATM_EMENI       -SKT--LSVTATVNELIQQATDEKNLAVLYCGWAAYA
+ATM_ASPFU       -SKT--LSVTATVNELIQQATDERNLAVLYCGWAAYA
+ATM_ASPOR       -GKT--LSVTATVNELIQQATDEKNLAVLYCGWAAYA
+ATM_NEUCR       -SKT--LSVMATVNDLINQATDERNLAVLFCGWAAYA
+ATM_GIBZE       -SKT--LSVTATVNDLINQATDERNLAVLYSGWAAYA
+                 .     .:   .  **. *     *. :: **    
